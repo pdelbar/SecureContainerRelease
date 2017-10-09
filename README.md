@@ -15,7 +15,6 @@ Together with **T-Mining**, NxtPort is improving security throughout the process
 ```
 /
   /doc              technical documentation about the use of this API
-     /quickstart    a quickstart guide
   /src              sample source code to call this API 
 ```
 
